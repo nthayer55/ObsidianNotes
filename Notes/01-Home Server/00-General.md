@@ -1,4 +1,4 @@
 # Programs
 
 - [x] claude-code… is it paywalled? ✅ 2026-02-02
-- [ ] Switch to uv
+- [x] Switch to uv ✅ 2026-03-26

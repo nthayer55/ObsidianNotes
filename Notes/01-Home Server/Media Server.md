@@ -5,8 +5,9 @@
 # Progress
 
  - [ ] Finish password manager combination
- - [ ] Dual boot laptop
+ - [x] Dual boot laptop ✅ 2026-03-26
  - [ ] Setup raspberry pi as pihole and vpn filter
  - [ ] Setup ownCloud
  - [ ] Setup Immich
  - [ ] Switch email
+ - [ ] Set up official DNS
