@@ -13,5 +13,5 @@ Th@y3942^
 
 - Head Down, Do The Work
 	- HDDW3924!@#$
-	- Testing.........
+	- Testing....
 
