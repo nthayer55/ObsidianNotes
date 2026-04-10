@@ -1,3 +1,5 @@
+#recipe #food #italian #gnocchi
+
 ## Ingredients
 
 - 8.8 ounces Italian sausages (cut into bite-size pieces) see recipe notes
@@ -20,3 +22,6 @@
 5. Stir in the diced tomatoes, cream, and gnocchi. Once the sauce starts to bubble again, cover the pan and reduce the heat to medium. Cook for 5 minutes. 
 6. Uncover the pan, give it a good stir, and let it cook for another few minutes, or until the gnocchi has cooked through and is nice and soft and the sauce has thickened to your liking.
 7. Stir in the parmesan cheese, basil, and salt & pepper, to taste. Serve immediately.
+
+## Notes
+- See [[Recipes MOC]] for more recipes.

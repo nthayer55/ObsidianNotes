@@ -1,3 +1,5 @@
+#project #home-server #media
+
 # Background
 
 # Features
@@ -11,3 +13,6 @@
  - [ ] Setup Immich
  - [ ] Switch email
  - [ ] Set up official DNS
+
+## Links
+- [[Home Server MOC]] - Overview of home server projects

@@ -1,4 +1,6 @@
 
+#fitness #goals #lifting
+
 ## Nico
 
 ### Lifting
@@ -48,6 +50,10 @@
 | -------------- | --- | ---- | ----- |
 | Back Squat     | 235 | 245  |       |
 | Front squat    | 175 | 185  |       |
+
+## Notes
+- See [[Supplements]] for related nutrition.
+- Linked to [[Gym MOC]] for overview.
 | Overhead squat | 145 | 165  |       |
 | Clean & Jerk   | 145 | 165  |       |
 | Clean          | 155 | 165  |       |

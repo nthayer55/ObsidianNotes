@@ -1,3 +1,5 @@
+#work #conference #scitech #mbse
+
 # [Boeing Fireside Chat](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=526020)
 
 # [Haven’t We Always Been Modeling? Unpacking Resistance in the Shift to Model Based Systems Engineering](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=524265)
@@ -45,3 +47,6 @@
 ## [Fast Flutter Prediction for Very Flexible Swept Wings](https://eppro01.ativ.me/web/index.php?page=Session&project=AIAASCITECH26&id=520708)
 
 - Just get the slides
+
+## Links
+- [[Work MOC]] - Overview of work notes
