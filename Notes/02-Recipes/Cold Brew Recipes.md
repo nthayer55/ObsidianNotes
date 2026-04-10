@@ -7,7 +7,6 @@
 ## Rumble Jar
 
 **Ratio:** 12:1 (water:grounds)
-
+**Working Weight:** 125g Coffee:1500g water
 ## Links
 - [[00-Recipes MOC]] - More recipes
-**Working Weight:** 125g Coffee:1500g water
