@@ -15,4 +15,4 @@
  - [ ] Set up official DNS
 
 ## Links
-- [[Home Server MOC]] - Overview of home server projects
+- [[00-Home Server MOC]] - Overview of home server projects

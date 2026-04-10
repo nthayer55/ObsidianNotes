@@ -1,3 +1,5 @@
+#work #conference #scitech #load-alleviation
+
 # SD-15: Load Alleviation for Aerospace Vehicles
 
 ## [In-Flight Hyperparameter Controller Adjustment for Load Alleviation of Very Flexible Aircraft](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=4348034)
@@ -136,3 +138,6 @@
 
 - Utilizes distributed sensing with Fiber Optic Strain Sensors (FOSS)
 - I think blacked out for this whole paper
+
+## Links
+- [[00-Work MOC]] - Overview of work notes

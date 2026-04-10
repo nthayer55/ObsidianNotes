@@ -16,6 +16,14 @@ This note serves as a central hub for all gym-related notes, goals, and progress
 ## Progress Tracking
 - Review [[Gym Goals]] weekly for updates.
 
+## Recent Fitness Notes
+```dataview
+LIST
+FROM #fitness
+SORT file.mtime DESC
+LIMIT 5
+```
+
 ## Links
-- [[Tasks]] - For gym-related tasks
-- [[Recipes]] - Nutrition-related recipes
+- [[00-General/Tasks]] - For gym-related tasks
+- [[00-Recipes MOC]] - Nutrition-related recipes

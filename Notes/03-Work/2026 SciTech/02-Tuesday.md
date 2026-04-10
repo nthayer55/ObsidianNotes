@@ -1,3 +1,5 @@
+#work #conference #scitech #fluid-dynamics
+
 # SD-07/FD-29: Fluid-Structure Interaction I
 
 ## [Multi-Output Auto-Regressive Modeling of Transonic Unsteady Aerodynamics](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=4350839)
@@ -135,3 +137,6 @@
 
 - [ ] [mkdocs-table-reader-plugin](https://timvink.github.io/mkdocs-table-reader-plugin/)
 - [ ] Charts based on tables in mkdocs
+
+## Links
+- [[00-Work MOC]] - Overview of work notes

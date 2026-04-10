@@ -1,5 +1,11 @@
 # Recipe Template
 
+## Metadata
+- **Prep Time**: 
+- **Cook Time**: 
+- **Servings**: 
+- **Source**: 
+
 ## Ingredients
 - 
 
@@ -13,4 +19,4 @@
 - 
 
 ## Links
-- [[Recipes MOC]]
+- [[00-Recipes MOC]]

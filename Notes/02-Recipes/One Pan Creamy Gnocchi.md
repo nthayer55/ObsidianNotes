@@ -24,4 +24,4 @@
 7. Stir in the parmesan cheese, basil, and salt & pepper, to taste. Serve immediately.
 
 ## Notes
-- See [[Recipes MOC]] for more recipes.
+- See [[00-Recipes MOC]] for more recipes.

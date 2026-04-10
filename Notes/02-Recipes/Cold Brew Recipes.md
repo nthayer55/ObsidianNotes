@@ -1,3 +1,5 @@
+#recipe #food #coffee #cold-brew
+
 ## Standard Mix
 
 **Ratio:** 8:1 (water:grounds)
@@ -5,4 +7,7 @@
 ## Rumble Jar
 
 **Ratio:** 12:1 (water:grounds)
+
+## Links
+- [[00-Recipes MOC]] - More recipes
 **Working Weight:** 125g Coffee:1500g water

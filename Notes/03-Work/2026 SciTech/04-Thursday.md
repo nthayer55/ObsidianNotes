@@ -1,3 +1,5 @@
+#work #conference #scitech #safety
+
 # [F360-12: Balancing Safety and Innovation](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=526029)
 
 - Natasha Neogi - NASA
@@ -87,3 +89,6 @@
 - Gradient based optimizer lead to multiple local minima, so switch to a generic optimization scheme
 
 ## [Unsteady Nonlinear 2D Lift Model Based on Steady Coefficients](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=4355237)
+
+## Links
+- [[00-Work MOC]] - Overview of work notes

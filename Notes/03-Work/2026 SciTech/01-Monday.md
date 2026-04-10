@@ -49,4 +49,4 @@
 - Just get the slides
 
 ## Links
-- [[Work MOC]] - Overview of work notes
+- [[00-Work MOC]] - Overview of work notes

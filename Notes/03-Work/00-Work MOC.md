@@ -15,6 +15,14 @@ Central hub for work-related notes, meetings, and projects.
 ## Projects
 - Link to any ongoing work projects here.
 
+## Recent Work Notes
+```dataview
+LIST
+FROM #work
+SORT file.mtime DESC
+LIMIT 5
+```
+
 ## Links
-- [[Tasks]] - Work tasks
-- [[Home Server]] - Related projects
+- [[00-General/Tasks]] - Work tasks
+- [[00-Home Server MOC]] - Related projects

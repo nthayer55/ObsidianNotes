@@ -17,4 +17,4 @@ Hub for all recipes and cooking-related notes.
 - Desserts: [[Simple Strawberry Ice Cream]]
 
 ## Links
-- [[Gym MOC]] - For nutrition-related fitness
+- [[00-Gym MOC]] - For nutrition-related fitness

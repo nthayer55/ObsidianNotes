@@ -1,3 +1,5 @@
+#work #conference #scitech #gust-interactions
+
 # FD-95 Wing-Gust Interactions I
 
 ## [Transverse Gust Mitigation with Trailing Edge Flap: Flow Topology and Effects of Initial Flow Condition](https://eppro01.ativ.me/appinfo.php?page=Session&project=AIAASCITECH26&id=4356029)
@@ -21,3 +23,6 @@
 - Performed analytical simulation and motion simulator
 - Fore-aft and rotational accelerations didn’t really matter so we’re excluded, only care about Ny and Nz
 - Each passenger perform 4 ten minute simulations: turbulence replay, then three random sine waves
+
+## Links
+- [[00-Work MOC]] - Overview of work notes
