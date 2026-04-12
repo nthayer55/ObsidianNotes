@@ -16,7 +16,7 @@ Hub for all recipes and cooking-related notes.
 - Mains: [[One Pan Creamy Gnocchi]]
 - Desserts: [[Simple Strawberry Ice Cream]]
 
-## Recent Work Notes
+## Recent Recipe Notes
 ```dataview
 LIST
 FROM #recipe
