@@ -19,7 +19,7 @@ Hub for all recipes and cooking-related notes.
 ## Recent Work Notes
 ```dataview
 LIST
-FROM #work
+FROM #recipe
 SORT file.mtime DESC
 LIMIT 5
 ```
