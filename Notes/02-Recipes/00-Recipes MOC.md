@@ -16,5 +16,12 @@ Hub for all recipes and cooking-related notes.
 - Mains: [[One Pan Creamy Gnocchi]]
 - Desserts: [[Simple Strawberry Ice Cream]]
 
+## Recent Work Notes
+```dataview
+LIST
+FROM #work
+SORT file.mtime DESC
+LIMIT 5
+```
 ## Links
 - [[00-Gym MOC]] - For nutrition-related fitness
