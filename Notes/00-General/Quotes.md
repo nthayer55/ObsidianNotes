@@ -16,3 +16,5 @@
 “The enemy gets a vote” - ?
 
 “It Can Only Be Earned“ - ?
+
+“Wolves don’t concern themselves with the opinions of sheep”
