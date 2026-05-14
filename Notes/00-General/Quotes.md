@@ -18,3 +18,5 @@
 “It Can Only Be Earned“ - ?
 
 “Wolves don’t concern themselves with the opinions of sheep”
+
+"Those who mind don't matter and those who matter don't mind"
