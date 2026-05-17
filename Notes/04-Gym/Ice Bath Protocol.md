@@ -1,2 +1,2 @@
 
-## Effective Temperature R
+## Effective Temperature Ranges
