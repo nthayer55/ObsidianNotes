@@ -16,5 +16,5 @@ Central point for home server projects and ideas.
 - Check [[Media Server]] for current tasks.
 
 ## Links
-- [[00-General/Tasks]] - Project tasks
+- [[Tasks]] - Project tasks
 - [[00-Work MOC]] - If work-related

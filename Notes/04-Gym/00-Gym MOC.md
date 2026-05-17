@@ -25,5 +25,5 @@ LIMIT 5
 ```
 
 ## Links
-- [[00-General/Tasks]] - For gym-related tasks
+- [[Tasks]] - For gym-related tasks
 - [[00-Recipes MOC]] - Nutrition-related recipes
