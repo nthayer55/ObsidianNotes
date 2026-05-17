@@ -1,1 +1,2 @@
 
+## Effective Temperature R
