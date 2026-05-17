@@ -1,13 +1,13 @@
 ---
-title: "The Science & Use of Cold Exposure for Health & Performance"
-source: "https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance"
+title: The Science & Use of Cold Exposure for Health & Performance
+source: https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance
 author:
   - "[[Andrew Huberman]]"
 published: 2025-02-20
 created: 2026-05-17
-description: "Done correctly, deliberate cold exposure can positively affect brain and body health. I detail some of those benefits and how best to access them."
+description: Done correctly, deliberate cold exposure can positively affect brain and body health. I detail some of those benefits and how best to access them.
 tags:
-  - "clippings"
+  - clippings
 ---
 Thank you for joining the Huberman Lab Podcast Neural Network—a once-a-month newsletter with science and science-based tools for everyday life. The purpose of this newsletter is to provide you with actionable information in condensed form.
 
