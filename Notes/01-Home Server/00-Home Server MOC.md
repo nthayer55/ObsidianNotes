@@ -10,7 +10,7 @@ Central point for home server projects and ideas.
 - [[Budget App]] - Project details
 - [[ByTheNumbers - Lift Tracker]] - Related app
 - [[Obsidian Vault(s)]] - Vault management
-- [[Misc. Project Ideas]] - Brainstorming
+- [[00-Project Ideas]] - Brainstorming
 
 ## Progress
 - Check [[Home Server Task List]] for current tasks.

@@ -12,7 +12,7 @@
  - [x] Setup ~~ownCloud~~ FileBrowser ✅ 2026-05-25
  - [ ] Setup Immich
  - [ ] Switch email
- - [ ] Set up official DNS
+ - [ ] Set up official DNS for entire server?
 - [ ] Move docker from root to /mnt/fast
 - [ ] Put Jellyfin on public domain
 - [ ] Clean up files
