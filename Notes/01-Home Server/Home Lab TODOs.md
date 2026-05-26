@@ -3,4 +3,4 @@
 - [ ] set up Immich
 - [ ] Put Jellyfin on public domain
 - [ ] Clean up files
-- [ ] Reconfigure hard drive to 
+- [ ] Reformat hard drive to ext4 once you expand
