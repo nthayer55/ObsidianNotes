@@ -11,7 +11,8 @@ Th@y3942*
 Th@y3942^
 ## General - new
 
-- Head Down, Do The Work
-	- HDDW3924!@#$
-	- Testing...
+- Head Down Do The Work
+	- HDDW3924!-optiplex
+	- HDDW3942!-legion
+	- HDDW3942!-deck
 
