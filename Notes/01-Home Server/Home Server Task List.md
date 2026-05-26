@@ -17,6 +17,7 @@
 - [ ] Put Jellyfin on public domain
 - [ ] Clean up files
 - [ ] Reformat hard drive to ext4 once you expand
+- [ ] Finish setting up ollama for local Claude code
 
 ## Links
 - [[00-Home Server MOC]] - Overview of home server projects
