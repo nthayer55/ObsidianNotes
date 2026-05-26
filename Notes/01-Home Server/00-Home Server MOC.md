@@ -6,14 +6,14 @@ Central point for home server projects and ideas.
 #project #home-server #moc
 
 ## Key Notes
-- [[Media Server]] - Setup and progress
+- [[Home Server Task List]] - Setup and progress
 - [[Budget App]] - Project details
 - [[ByTheNumbers - Lift Tracker]] - Related app
 - [[Obsidian Vault(s)]] - Vault management
 - [[Misc. Project Ideas]] - Brainstorming
 
 ## Progress
-- Check [[Media Server]] for current tasks.
+- Check [[Home Server Task List]] for current tasks.
 
 ## Links
 - [[Tasks]] - Project tasks
