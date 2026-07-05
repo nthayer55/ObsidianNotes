@@ -4,7 +4,7 @@
 - [ ] Finalize trip logistics
 
 ## Jimmy and Jenna Wedding
-- [ ] Book hotel
+- [x] Book hotel ✅ 2026-07-05
 - [ ] Present
 
 ## Portugal
