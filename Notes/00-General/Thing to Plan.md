@@ -8,7 +8,7 @@
 - [ ] Present
 
 ## Portugal
-- [ ] Set trip dates
+- [x] Set trip dates ✅ 2026-07-05
 - [ ] Initiate flight tracker
 - [ ] Draft itinerary
 
