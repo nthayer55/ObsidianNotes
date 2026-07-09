@@ -1,9 +1,9 @@
 
 ## Grand Canyon
-- [ ] Training plan
-	- [ ] Examine stair session substitutes
-	- [ ] Add in hike during Chelan
-	- [ ] Add in hike during Sacramento
+- [x] Training plan ✅ 2026-07-08
+	- [x] Examine stair session substitutes ✅ 2026-07-08
+	- [x] Add in hike during Chelan ✅ 2026-07-08
+	- [x] Add in hike during Sacramento ✅ 2026-07-08
 - [ ] Finalize trip logistics
 
 ## Jimmy and Jenna Wedding
