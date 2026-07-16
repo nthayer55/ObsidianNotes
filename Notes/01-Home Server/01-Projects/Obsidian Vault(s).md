@@ -2,7 +2,7 @@
 
 # Progress
 
-- [ ] Set up Tasks and TODOist to coexist
+- [-] Set up Tasks and TODOist to coexist ❌ 2026-07-16
 - [ ] Set up/understand Linter
 - [x] Set up Obisdian LiveSync [completion:: 2026-02-10]
 	- [x] Set up CouchDB for LiveSync plugin ✅ 2026-02-02
