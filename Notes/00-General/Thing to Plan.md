@@ -12,7 +12,7 @@
 
 ## Portugal
 - [x] Set trip dates ✅ 2026-07-05
-- [ ] Initiate flight tracker
+- [x] Initiate flight tracker ✅ 2026-07-17
 - [ ] Draft itinerary
 
 ## Thanksgiving
