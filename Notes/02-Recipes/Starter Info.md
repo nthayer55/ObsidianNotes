@@ -8,7 +8,7 @@ Tub Weight: 275g
 250g whole wheat flour
 250g water
 
-## Starting Schedule
+## Starter Creation Schedule
 
 - [x] Day 1 ✅ 2026-07-20
 	- Mix 250g flour + 250g water
@@ -33,4 +33,7 @@ Tub Weight: 275g
 	- Add 200g white flour + 50g whole wheat flour + 200g water
 	- Cover and start maintenance schedule
 
+## Maintenance Schedule
 
+- [ ] Wednesday Night
+	- 
