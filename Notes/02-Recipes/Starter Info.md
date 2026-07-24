@@ -35,5 +35,22 @@ Tub Weight: 275g
 
 ## Maintenance Schedule
 
-- [ ] Wednesday Night
-	- 
+**1.Wake-up Feed:**Tuesday Night (~36 hrs before dough mix).
+
+Take your small jar out of the fridge. Discard down to **20g starter**. Add **40g of your Feeding Blend** and **40g water**. Stir well and leave it on the counter overnight.
+
+**2.The Levain Build:**Wednesday Morning (~24 hrs before dough mix).
+
+Your starter should be bubbly. Do not discard anything. You have roughly 100g of starter in the jar. Add **100g of your Feeding Blend** and **100g water**. Stir thoroughly and let it sit on the counter.
+
+**3.Secure the Seed:**Wednesday Night (~12 hrs before dough mix).
+
+Your starter is now at peak activity, totaling about 300g. **Take 50g of this active starter, put it into a clean jar, and put it directly into the fridge.** This is your secure seed for your next bake in two weeks.
+
+**4.Mix Your Dough:**Thursday Morning (Dough Mix Day).
+
+You are left with ~250g of room-temperature, highly active starter on your counter. Measure out the exact amount needed for your Forkish recipe, mix your main dough, and let it ferment overnight on the counter per his instructions.
+
+**5.Shape and Bake:**Friday Morning (Bake Day!).
+
+Divide your dough, shape the loaves, proof them briefly if needed, and drop them into your preheated Dutch ovens.
