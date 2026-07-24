@@ -48,6 +48,6 @@ Tub Weight: 275g
 	- Mix Your Dough:
 		- You are left with ~250g of room-temperature, highly active starter on your counter. Measure out the exact amount needed for your Forkish recipe, mix your main dough, and let it ferment overnight on the counter per his instructions.
 - [ ] **Friday Morning** (Bake Day!)
-**5.Shape and Bake:**F.
+	- Shape and Bake:**F.
 
 Divide your dough, shape the loaves, proof them briefly if needed, and drop them into your preheated Dutch ovens.
