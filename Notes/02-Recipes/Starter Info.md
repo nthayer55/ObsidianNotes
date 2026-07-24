@@ -42,8 +42,7 @@ Tub Weight: 275g
 	- The Levain Build:
 		- Your starter should be bubbly. Do not discard anything. You have roughly 100g of starter in the jar. Add  **80g of white flour**, **20g of wheat flour**, and **100g water**. Stir thoroughly and let it sit on the counter.
 - [ ]  **Wednesday Night** (~12 hrs before dough mix)
-
-**3.Secure the Seed:
+	- Secure the Seed:
 
 Your starter is now at peak activity, totaling about 300g. **Take 50g of this active starter, put it into a clean jar, and put it directly into the fridge.** This is your secure seed for your next bake in two weeks.
 
