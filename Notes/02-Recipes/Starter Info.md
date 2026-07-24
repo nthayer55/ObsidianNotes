@@ -44,9 +44,9 @@ Tub Weight: 275g
 - [ ]  **Wednesday Night** (~12 hrs before dough mix)
 	- Secure the Starter Seed:
 		- Your starter is now at peak activity, totaling about 300g. **Take 50g of this active starter, put it into a clean jar, and put it directly into the fridge.** This is your secure starter seed for your next bake in two weeks.
-- [ ] 
+- [ ] **Thursday Morning** (Dough Mix Day)
 
-**4.Mix Your Dough:**Thursday Morning (Dough Mix Day).
+**4.Mix Your Dough:**.
 
 You are left with ~250g of room-temperature, highly active starter on your counter. Measure out the exact amount needed for your Forkish recipe, mix your main dough, and let it ferment overnight on the counter per his instructions.
 
