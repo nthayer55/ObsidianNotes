@@ -35,7 +35,8 @@ Tub Weight: 275g
 
 ## Maintenance Schedule
 
-- [ ] Tuesday Night (~36 hrs before dough mix).
+- [ ] Tuesday Night (~36 hrs before dough mix)
+	- Wake-up Feed:
 
 Take your small jar out of the fridge. Discard down to **20g starter**. Add **40g of your Feeding Blend** and **40g water**. Stir well and leave it on the counter overnight.
 
