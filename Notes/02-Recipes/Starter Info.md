@@ -30,7 +30,7 @@ Tub Weight: 275g
 	- Cover and leave somewhere warm until same time next day
 - [x] Day 5 ✅ 2026-07-23
 	- Discard all but 75g of starter
-	- Add 200g white flour + 50g whole wheat flour + 200g water
+	- Add **200g white flour** + **50g whole wheat flour** + 200g water
 	- Cover and start maintenance schedule
 
 ## Maintenance Schedule
