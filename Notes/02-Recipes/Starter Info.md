@@ -26,7 +26,7 @@ Tub Weight: 275g
 	- Cover and leave somewhere warm until same time next day
 - [x] **Day 4** ✅ 2026-07-23
 	- Discard all but **100g of starter**
-	- Add 250g flour + 250g water
+	- Add **250g wheat flour** + 250g water
 	- Cover and leave somewhere warm until same time next day
 - [x] Day 5 ✅ 2026-07-23
 	- Discard all but 75g of starter
