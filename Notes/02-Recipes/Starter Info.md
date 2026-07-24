@@ -41,6 +41,7 @@ Tub Weight: 275g
 - [ ] Wednesday Morning (~24 hrs before dough mix)
 	- The Levain Build:
 		- Your starter should be bubbly. Do not discard anything. You have roughly 100g of starter in the jar. Add  **80g of white flour**, **20g of wheat flour**, and **100g water**. Stir thoroughly and let it sit on the counter.
+- [ ]  
 
 **3.Secure the Seed:**Wednesday Night (~12 hrs before dough mix).
 
