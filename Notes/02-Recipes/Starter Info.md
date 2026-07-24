@@ -35,10 +35,10 @@ Tub Weight: 275g
 
 ## Maintenance Schedule
 
-- [ ] Tuesday Night (~36 hrs before dough mix)
+- [ ] **Tuesday Night** (~36 hrs before dough mix)
 	- Wake-up Feed:
 		- Take your small jar out of the fridge. Discard down to **20g starter**. Add **32g of white flour**, **8g of wheat flour**, and **40g water**. Stir well and leave it on the counter overnight.
-
+- [ ] 
 **2.The Levain Build:**Wednesday Morning (~24 hrs before dough mix).
 
 Your starter should be bubbly. Do not discard anything. You have roughly 100g of starter in the jar. Add **100g of your Feeding Blend** and **100g water**. Stir thoroughly and let it sit on the counter.
